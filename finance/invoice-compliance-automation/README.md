@@ -50,7 +50,7 @@ The automation is built as a sequence of steps:
 
 ## Tech Stack
 
-* Make (Integromat)
+* Make
 * Google Gemini AI
 * Gmail
 * Google Drive
